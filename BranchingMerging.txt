@@ -1,0 +1,16 @@
+So this is how I do:
+
+Basically, work in your branch. Code, code, change, change, yay you're done.
+Then you gotta commit those changes to your branch, TEST, as usual.
+After that, you can finally merge yoru branch with the master.
+
+1. push changes to your branch called "test"
+git add . // or "git add FILENAME.EXT"
+git commit -m "commit message"
+git push origin test
+
+2. merge branch with master
+git checkout master // move into master branch
+git pull origin master
+git merge test
+git push origin master
