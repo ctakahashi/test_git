@@ -1,0 +1,3 @@
+git checkout <directory>     //////// git checkout jmaedaBranch or git chcekout master
+git pull origin <directory>   /////// git pull origin master
+git push origin <directory> ///////// git push origin jmaedaBranch

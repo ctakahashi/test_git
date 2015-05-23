@@ -3,9 +3,12 @@ how do i make branches WHO KNOWS
 (i guess Amauris knows)
 
 My name is:
-Chungyuk 
+Chungyuk
+
+My name is Christine
 
 
+My name is Alex
 
 
 My name is Alex
@@ -13,4 +16,8 @@ My name is Alex
 
 
 
-this is my second edit 
+
+And my name is Amauris
+
+
+this  is my second edit 
