@@ -1,0 +1,27 @@
+So this is how I do:
+
+Basically, work in your branch. Code, code, change, change, yay you're done.
+Then you gotta commit those changes to your branch, TEST, as usual.
+After that, you can finally merge your branch with the master.
+
+1. push changes to your branch called "test"
+git add . // or "git add FILENAME.EXT"
+git commit -m "commit message"
+git push origin test
+
+2. merge branch with master
+git checkout master // move into master branch
+git pull origin master
+git merge test
+git push origin master
+
+--MAKE SURE YOUR BRANCH IS RECENT BEFORE YOU START WORKING BY DOING:
+git checkout <your branch>
+git pull origin master 
+
+--MERGE CONFLICTS
+Merge conflicts happen when you and somebody else changed something in the same line(s).
+To resolve a merge conflict, see more here:
+https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/
+
+--Also thing I didn't notice till later... Your file on your desktop with the project changes with the branch you're currently in. I think that's pretty cool.
