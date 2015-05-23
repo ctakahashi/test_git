@@ -3,7 +3,7 @@
 ##Make branch: 
 git checkout -b <branch name>
 
-##Commit
+##Commit & push to your branch
 
 ##Push & Merge:
 git checkout master //move into master branch
