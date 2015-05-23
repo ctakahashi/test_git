@@ -1,12 +1,6 @@
-#How to do things
+# test_git
+how do i make branches WHO KNOWS
+(i guess Amauris knows)
 
-##Make branch: 
-git checkout -b <branch name>
-
-##Commit & push to your branch
-
-##Push & Merge:
-git checkout master //move into master branch
-git pull origin master //make sure you have latest
-git merge test //merge
-git push origin master //push to origin
+My name is:
+Chungyuk 
